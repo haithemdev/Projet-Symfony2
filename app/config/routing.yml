@@ -1,0 +1,5 @@
+tuto_test:
+    resource: "@TutoTestBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
